@@ -245,7 +245,8 @@
         "Defined temporal channel selection and preprocessing for model input",
         "ResNet-18 architecture with hyperparameter optimization",
         "Reported performance via clinical-utility and logarithmic-scale confusion matrices",
-        "Demonstrated data pipeline from raw frames → peak detection → model training"
+        "Demonstrated data pipeline from raw frames → peak detection → model training",
+        "Extended the dnyamic range of the system of 6 orders of magnitude- rivals PCR"
       ],
       "keywords": [
         "ResNet-18",
