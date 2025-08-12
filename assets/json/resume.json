@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Coleman (Cole) Martin",
-    "label": "Chemical Engineer | Diagnostics & ML",
     "email": "coleman.d.martin@gmail.com",
     "location": {
       "city": "Seattle",
@@ -61,7 +60,7 @@
       "name": "University of Washington — Posner Research Group",
       "location": "Seattle, WA",
       "position": "Graduate Researcher",
-      "startDate": "2020-01",
+      "startDate": "2020-06",
       "endDate": "2025-05",
       "summary": "Developed point-of-care assays and readouts for SARS-CoV-2 and HIV.",
       "highlights": [
@@ -78,7 +77,7 @@
       "location": "Hamilton, MT",
       "position": "Manufacturing Science and Technology (MSAT) Intern",
       "startDate": "2019-05",
-      "endDate": "2019-12",
+      "endDate": "2019-07",
       "summary": "Supported upstream/downstream development and cGMP operations.",
       "highlights": [
         "Evaluated fermentation media components via spectrophotometry and growth curves to inform cGMP supply decisions.",
@@ -92,7 +91,7 @@
       "name": "Montana State University — Wiedenheft Lab",
       "location": "Bozeman, MT",
       "position": "Undergraduate Research Scientist",
-      "startDate": "2017-01",
+      "startDate": "2017-06",
       "endDate": "2019-12",
       "summary": "Genome engineering and CRISPR-Cas9 workflows.",
       "highlights": [
@@ -154,21 +153,23 @@
       "name": "Diagnostics & Assay Development",
       "keywords": [
         "RPA",
-        "RT-qPCR",
         "LAMP",
+        "RT-qPCR",
         "Lateral flow",
         "Internal process controls",
         "Analytical performance (sensitivity, specificity, LOD)"
       ]
     },
     {
-      "name": "Machine Learning & CV",
+      "name": "Machine Learning & CNN",
       "keywords": [
         "ResNet",
         "Computer vision",
         "Dynamic range expansion",
         "Image-based quantification",
-        "Time resolved image data analysis"
+        "Time resolved image data analysis",
+        "CUDA GPU accelerated learning",
+        "Large dataset"
       ]
     },
     {
