@@ -2,7 +2,7 @@
   "basics": {
     "name": "Coleman (Cole) Martin",
     "label": "Chemical Engineer | Diagnostics & ML",
-    "email": "coleman.d.martin(at)gmail.com",
+    "email": "coleman.d.martin@gmail.com",
     "location": {
       "city": "Seattle",
       "region": "WA"
@@ -51,7 +51,7 @@
       "name": "University of Washington — Posner Research Group",
       "location": "Seattle, WA",
       "position": "Postdoctoral Researcher",
-      "startDate": "2025",
+      "startDate": "2025-06",
       "summary": "Assay development for point-of-care viral diagnostics.",
       "highlights": [
         "Designed and optimized recombinase polymerase amplification (RPA) assays for HCV viral-load quantification."
@@ -61,8 +61,8 @@
       "name": "University of Washington — Posner Research Group",
       "location": "Seattle, WA",
       "position": "Graduate Researcher",
-      "startDate": "2020",
-      "endDate": "2025",
+      "startDate": "2020-01",
+      "endDate": "2025-05",
       "summary": "Developed point-of-care assays and readouts for SARS-CoV-2 and HIV.",
       "highlights": [
         "Designed and optimized RPA assays for SARS-CoV-2 and HIV viral-load quantification.",
@@ -77,8 +77,8 @@
       "name": "GlaxoSmithKline (via Atrium Staffing Services)",
       "location": "Hamilton, MT",
       "position": "Manufacturing Science and Technology (MSAT) Intern",
-      "startDate": "2019",
-      "endDate": "2019",
+      "startDate": "2019-05",
+      "endDate": "2019-12",
       "summary": "Supported upstream/downstream development and cGMP operations.",
       "highlights": [
         "Evaluated fermentation media components via spectrophotometry and growth curves to inform cGMP supply decisions.",
@@ -92,8 +92,8 @@
       "name": "Montana State University — Wiedenheft Lab",
       "location": "Bozeman, MT",
       "position": "Undergraduate Research Scientist",
-      "startDate": "2017",
-      "endDate": "2019",
+      "startDate": "2017-01",
+      "endDate": "2019-12",
       "summary": "Genome engineering and CRISPR-Cas9 workflows.",
       "highlights": [
         "Collaborated on CRISPR-Cas9 genome engineering project.",
@@ -127,25 +127,25 @@
     {
       "name": "SARS-CoV-2 Recombinase Polymerase Amplification Assay with Lateral Flow Readout and Duplexed Full Process Internal Control",
       "publisher": "Sensors & Diagnostics",
-      "releaseDate": "2024",
+      "releaseDate": "2024-01",
       "url": "https://doi.org/10.1039/D3SD00246B"
     },
     {
       "name": "Rapid Detection of Hepatitis C Virus Using Recombinase Polymerase Amplification",
       "publisher": "PLOS ONE",
-      "releaseDate": "2022",
+      "releaseDate": "2022-10",
       "url": "https://doi.org/10.1371/journal.pone.0276582"
     },
     {
       "name": "Quantitative Isothermal Amplification on Paper Membranes Using Amplification Nucleation Site Analysis",
       "publisher": "Lab on a Chip",
-      "releaseDate": "2022",
+      "releaseDate": "2022-06",
       "url": "https://doi.org/10.1039/D2LC00007E"
     },
     {
       "name": "CRISPR RNA-Guided Autonomous Delivery of Cas9",
       "publisher": "Nature Structural & Molecular Biology",
-      "releaseDate": "2019",
+      "releaseDate": "2019-01",
       "url": "https://doi.org/10.1038/s41594-018-0173-y"
     }
   ],
@@ -260,9 +260,17 @@
   "presentations": [
     {
       "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
+      "publisher": "MicroTAS 2021 (The 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences)",
+      "location": "Palm Springs, CA, USA",
+      "releaseDate": "2021-10",
+      "url": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/453-rapid-sarscov2-testing-with-duplexed-recombinase-polymerase-amplification-and-a-bacteriophage-internal-control/3DD39B6E769D8288AAE00E2D06AC91E7",
+      "summary": "Poster: Duplexed RT-RPA SARS-CoV-2 assay with MS2 bacteriophage full-process internal control; compatible with real-time fluorescence and endpoint lateral-flow readout."
+    },
+    {
+      "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
       "publisher": "ITHS TL1 Summit",
       "location": "Bozeman, MT, USA",
-      "releaseDate": "2023",
+      "releaseDate": "2023-06",
       "url": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/453-rapid-sarscov2-testing-with-duplexed-recombinase-polymerase-amplification-and-a-bacteriophage-internal-control/3DD39B6E769D8288AAE00E2D06AC91E7",
       "summary": "Poster presentation detailing development of a duplexed RT-RPA SARS-CoV-2 assay with a bacteriophage MS2 full-process internal control."
     },
@@ -270,34 +278,34 @@
       "name": "Isothermal DNA Quantification Using Puncta-based Analysis",
       "publisher": "Gordon Research Conference",
       "location": "Renaissance Tuscany Il Ciocco, Italy",
-      "releaseDate": "2023",
+      "releaseDate": "2023-06",
       "summary": "Poster presentation describing puncta-based quantification methods for isothermal nucleic acid amplification."
     },
     {
       "name": "Isothermal DNA Quantification Using Puncta-based Analysis",
       "publisher": "Gordon Research Seminar",
       "location": "Renaissance Tuscany Il Ciocco, Italy",
-      "releaseDate": "2023",
+      "releaseDate": "2023-06",
       "summary": "Poster presentation introducing puncta-based analysis methods for isothermal nucleic acid amplification."
     },
     {
       "name": "Annual Department Presentations",
       "publisher": "University of Washington, Department of Chemical Engineering",
-      "releaseDate": "2020-2025",
-      "summary": "Yearly presentations/seminars for recruitment or department level showcases."
+      "releaseDate": "2020-01",
+      "summary": "Presented annually 2020–2025 to faculty and peers."
     }
-  ]
- "teaching": [
+  ],
+  "teaching": [
     {
       "course": "CHEM E 340: Transport II (Heat)",
       "instructor": "Prof. Bergsman",
-      "term": "Winter 2022",
+      "term": "2022-01",
       "institution": "University of Washington"
     },
     {
       "course": "CHEM E 330: Transport I (Fluids)",
       "instructor": "Prof. Adler",
-      "term": "Fall 2024",
+      "term": "2024-09",
       "institution": "University of Washington"
     }
   ]
