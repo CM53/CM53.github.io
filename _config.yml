@@ -144,11 +144,11 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
 
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Martin]
+  first_name: [Coleman, D.]
 
   style: apa
   locale: en
@@ -641,3 +641,5 @@ jsonresume:
   - languages
   - interests
   - references
+  - presentations
+  - teaching
