@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - CM53
+  - MartC53
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - MartC53/ANSA
+  - MartC53/ConnectTheDots2
+  - hughmarch/PRG-NAAT-Phone-Sensor-for-RPA-Quantification-on-Membrane
+  - MartC53/2D_ITP_box
+  - MartC53/547ConnectTheDots
+  - MartC53/QIAML
+ 
