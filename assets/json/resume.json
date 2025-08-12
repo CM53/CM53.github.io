@@ -2,7 +2,7 @@
   "basics": {
     "name": "Coleman (Cole) Martin",
     "label": "Chemical Engineer | Diagnostics & ML",
-    "email": "coleman.d.martin@gmail.com",
+    "email": "coleman.d.martin(at)gmail.com",
     "location": {
       "city": "Seattle",
       "region": "WA"
@@ -22,36 +22,28 @@
       "location": "Seattle, WA",
       "studyType": "Ph.D.",
       "area": "Chemical Engineering (with Data Science)",
-      "endDate": "2025-05",
-      "score": "",
-      "courses": []
+      "endDate": "2025-05"
     },
     {
       "institution": "University of Washington",
       "location": "Seattle, WA",
       "studyType": "M.S.",
       "area": "Chemical Engineering (with Data Science)",
-      "endDate": "2022-06",
-      "score": "",
-      "courses": []
+      "endDate": "2022-06"
     },
     {
       "institution": "Montana State University",
       "location": "Bozeman, MT",
       "studyType": "B.S.",
       "area": "Chemical Engineering",
-      "endDate": "2019-12",
-      "score": "",
-      "courses": []
+      "endDate": "2019-12"
     },
     {
       "institution": "Montana State University",
       "location": "Bozeman, MT",
       "studyType": "B.S.",
       "area": "Biological Engineering",
-      "endDate": "2019-12",
-      "score": "",
-      "courses": []
+      "endDate": "2019-12"
     }
   ],
   "work": [
@@ -60,7 +52,6 @@
       "location": "Seattle, WA",
       "position": "Postdoctoral Researcher",
       "startDate": "2020",
-      "endDate": "2025",
       "summary": "Assay development for point-of-care viral diagnostics.",
       "highlights": [
         "Designed and optimized recombinase polymerase amplification (RPA) assays for HCV viral-load quantification."
@@ -87,6 +78,7 @@
       "location": "Hamilton, MT",
       "position": "Manufacturing Science and Technology (MSAT) Intern",
       "startDate": "2019",
+      "endDate": "2019",
       "summary": "Supported upstream/downstream development and cGMP operations.",
       "highlights": [
         "Evaluated fermentation media components via spectrophotometry and growth curves to inform cGMP supply decisions.",
@@ -115,59 +107,46 @@
   "awards": [
     {
       "title": "TL1 Translational Research Training Fellow",
-      "date": "",
-      "awarder": "Institute for Translational Health Sciences (ITHS)",
-      "summary": ""
+      "awarder": "Institute for Translational Health Sciences (ITHS)"
     },
     {
       "title": "“Leading the Pack” Award",
-      "date": "",
-      "awarder": "University of Washington (Chemical & Biological Safety Officer role)",
-      "summary": ""
+      "awarder": "University of Washington (Chemical & Biological Safety Officer role)"
     }
   ],
   "publications": [
     {
       "name": "The Impact of PEG 35K on Dynamics and the Quantifiable Range of Isothermal Amplification Nucleation Site Analysis",
       "publisher": "Analytical Chemistry",
-      "releaseDate": "",
-      "url": "",
       "summary": "Prepared manuscript."
     },
     {
       "name": "Extending the Dynamic Range of Isothermal HIV-1 DNA Amplification Nucleation Site Analysis Using a Residual Neural Network",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
       "summary": "Prepared manuscript."
     },
     {
       "name": "SARS-CoV-2 Recombinase Polymerase Amplification Assay with Lateral Flow Readout and Duplexed Full Process Internal Control",
       "publisher": "Sensors & Diagnostics",
       "releaseDate": "2024",
-      "url": "",
-      "summary": "Article ID D3SD00246B; DOI 10.1039.D3SD00246B."
+      "url": "https://doi.org/10.1039/D3SD00246B"
     },
     {
       "name": "Rapid Detection of Hepatitis C Virus Using Recombinase Polymerase Amplification",
       "publisher": "PLOS ONE",
       "releaseDate": "2022",
-      "url": "",
-      "summary": "e0276582."
+      "url": "https://doi.org/10.1371/journal.pone.0276582"
     },
     {
       "name": "Quantitative Isothermal Amplification on Paper Membranes Using Amplification Nucleation Site Analysis",
       "publisher": "Lab on a Chip",
       "releaseDate": "2022",
-      "url": "",
-      "summary": ""
+      "url": "https://doi.org/10.1039/D2LC00007E"
     },
     {
       "name": "CRISPR RNA-Guided Autonomous Delivery of Cas9",
       "publisher": "Nature Structural & Molecular Biology",
       "releaseDate": "2019",
-      "url": "",
-      "summary": "26(1):14–24."
+      "url": "https://doi.org/10.1038/s41594-018-0173-y"
     }
   ],
   "skills": [
@@ -175,6 +154,8 @@
       "name": "Diagnostics & Assay Development",
       "keywords": [
         "RPA",
+        "RT-qPCR",
+        "LAMP",
         "Lateral flow",
         "Internal process controls",
         "Analytical performance (sensitivity, specificity, LOD)"
@@ -186,7 +167,8 @@
         "ResNet",
         "Computer vision",
         "Dynamic range expansion",
-        "Image-based quantification"
+        "Image-based quantification",
+        "Time resolved image data analysis"
       ]
     },
     {
@@ -208,22 +190,115 @@
         "ELISA",
         "Cell cloning & mutagenesis",
         "HEK293",
+        "Lentiviral production and transduction",
         "Bacterial/viral culture"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Dissertation — Physicochemical Hydrodynamics and ML Characterization of Isothermal Amplification Nucleation Site Analysis",
-      "description": "Point-of-care RPA assay development for rapid detection (SARS-CoV-2) and HIV viral-load monitoring; viscous dampening and computer vision to expand quantifiable range.",
+      "name": "COAST: Duplexed RT-RPA SARS-CoV-2 Assay with Lateral Flow Readout",
+      "description": "One-pot, duplexed RT-RPA assay for SARS-CoV-2 with an MS2 bacteriophage full-process internal control; supports real-time fluorescence or endpoint lateral-flow readout.",
       "highlights": [
-        "PCR-level sensitivity/specificity with antigen-test-like ease and speed.",
-        "Full-process internal control for assay robustness.",
-        "Computer vision + viscous dampening for expanded dynamic range."
+        "LOD: ~25 copies/reaction (fluorescence) and ~50 copies/reaction (LFA), ~15–28 min total runtime",
+        "Dual readout using TwistAmp exo kits with internally-quenched probes",
+        "Detects Delta and Omicron; no cross-reactivity with Flu A/B or common HCoVs",
+        "Demonstrated duplexed LFA with separate lines for target and process control"
       ],
-      "roles": ["Lead Researcher"],
-      "entity": "University of Washington",
+      "keywords": [
+        "RT-RPA",
+        "Lateral flow",
+        "MS2 process control",
+        "Duplexing",
+        "Isothermal NAAT"
+      ],
+      "roles": ["Lead researcher", "Assay designer"],
+      "entity": "University of Washington — Posner Research Group",
+      "type": "research",
+      "url": "https://doi.org/10.1039/D3SD00246B"
+    },
+    {
+      "name": "Chip-based ANSA for Quantitative HIV Viral-Load Testing",
+      "description": "Translated Amplification Nucleation Site Analysis (ANSA) from membranes to a minimalist microfluidic glass-slide chip and tuned PEG-mediated phase behavior to expand quantifiable range for HIV DNA.",
+      "highlights": [
+        "Systematically varied PEG to shrink site diameter and reduce merging",
+        "Expanded ANSA’s quantitative range to ~4.7 orders of magnitude",
+        "Automated image processing to count nucleation sites and extract Gaussian features",
+        "Demonstrated simple fabrication and 39 °C operation suitable for POC workflows"
+      ],
+      "keywords": [
+        "ANSA",
+        "Microfluidics",
+        "PEG 35K",
+        "Point-of-care",
+        "Fluorescence imaging"
+      ],
+      "roles": ["Concept development", "Chip design", "Data analysis"],
+      "entity": "University of Washington — Posner Research Group",
       "type": "research"
+    },
+    {
+      "name": "CNN-based Quantification of Isothermal Amplification (ANSA)",
+      "description": "Built ResNet-based models to predict nucleic-acid concentration from time-lapse ANSA images; evaluated both clinical-tier classification and log-fold regression.",
+      "highlights": [
+        "Defined temporal channel selection and preprocessing for model input",
+        "ResNet-18 architecture with hyperparameter optimization",
+        "Reported performance via clinical-utility and logarithmic-scale confusion matrices",
+        "Demonstrated data pipeline from raw frames → peak detection → model training"
+      ],
+      "keywords": [
+        "ResNet-18",
+        "Computer vision",
+        "Time-series imaging",
+        "Viral-load stratification"
+      ],
+      "roles": ["Model architect", "ML engineer"],
+      "entity": "University of Washington — Posner Research Group",
+      "type": "research"
+    }
+  ],
+  "presentations": [
+    {
+      "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
+      "publisher": "ITHS TL1 Summit",
+      "location": "Bozeman, MT, USA",
+      "releaseDate": "2023",
+      "url": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/453-rapid-sarscov2-testing-with-duplexed-recombinase-polymerase-amplification-and-a-bacteriophage-internal-control/3DD39B6E769D8288AAE00E2D06AC91E7",
+      "summary": "Poster presentation detailing development of a duplexed RT-RPA SARS-CoV-2 assay with a bacteriophage MS2 full-process internal control."
+    },
+    {
+      "name": "Isothermal DNA Quantification Using Puncta-based Analysis",
+      "publisher": "Gordon Research Conference",
+      "location": "Renaissance Tuscany Il Ciocco, Italy",
+      "releaseDate": "2023",
+      "summary": "Poster presentation describing puncta-based quantification methods for isothermal nucleic acid amplification."
+    },
+    {
+      "name": "Isothermal DNA Quantification Using Puncta-based Analysis",
+      "publisher": "Gordon Research Seminar",
+      "location": "Renaissance Tuscany Il Ciocco, Italy",
+      "releaseDate": "2023",
+      "summary": "Poster presentation introducing puncta-based analysis methods for isothermal nucleic acid amplification."
+    },
+    {
+      "name": "Annual Department Presentations",
+      "publisher": "University of Washington, Department of Chemical Engineering",
+      "releaseDate": "2020-2025",
+      "summary": "Yearly presentations/seminars for recruitment or department level showcases."
+    }
+  ]
+ "teaching": [
+    {
+      "course": "CHEM E 340: Transport II (Heat)",
+      "instructor": "Prof. Bergsman",
+      "term": "Winter 2022",
+      "institution": "University of Washington"
+    },
+    {
+      "course": "CHEM E 330: Transport I (Fluids)",
+      "instructor": "Prof. Adler",
+      "term": "Fall 2024",
+      "institution": "University of Washington"
     }
   ]
 }
