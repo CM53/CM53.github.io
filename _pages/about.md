@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PRG member<[/a](https://posner.uw.edu/)>. Seattle, Wa. firstname.d.last@gmail.com
+subtitle: <a href='#'> Seattle, Wa. firstname.d.last@gmail.com
 
 profile:
   align: right
