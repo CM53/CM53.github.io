@@ -9,10 +9,9 @@ profile:
   image: Headshot.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p>[Linkdin](https://www.linkedin.com/in/colemanmartin/)
     <p>Seattle, Wa</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -31,3 +30,4 @@ I’m a PhD chemical engineer with expertise in microfluidics, molecular diagnos
 I developed a duplexed RT-RPA assay with lateral flow and fluorescence readouts meeting WHO guidelines, and designed a minimalist microfluidic chip for quantitative diagnostics using first-principles fluid mechanics. I also built a mobile phone–based imaging pipeline and applied deep learning (ResNet-18) to quantify and model amplification dynamics in HIV assays.
 
 I’m driven by the challenge of applying the best tools whether molecular, computational, or mechanical to solve impactful problems in health and engineering. My work bridges diagnostics, device design, and data science to move technologies from the benchtop to real-world use.
+[LinkedIn](https://www.linkedin.com/in/colemanmartin/)
