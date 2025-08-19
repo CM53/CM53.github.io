@@ -26,7 +26,7 @@ Developed a one-pot, duplexed RT‑RPA assay for SARS‑CoV‑2 featuring both r
 - Meets WHO criteria for rapid COVID-19 diagnostics.
 
 ## Imaging & analysis software:
-I developed custom imaging software to automatically locate, analyze, and quantify band intensities from lateral-flow strips using flatbed scanner images. The tool extracts spatial and intensity data for each test and control line, enabling consistent and objective result interpretation for large-scale or field deployments.
+I developed custom imaging software in python to automatically locate, analyze, and quantify band intensities from lateral-flow strips using flatbed scanner images. The tool extracts spatial and intensity data for each test and control line, enabling consistent and objective result interpretation for large-scale or field deployments.
 
 ### 📄 Citation
 
