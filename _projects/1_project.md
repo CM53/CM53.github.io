@@ -1,11 +1,11 @@
 ---
 layout: page
 title: project 1
-description: with background image
+description: COVID at home self test (COAST)
 img: assets/img/coast_overview.gif
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 # SARS‑CoV‑2 Duplexed RT‑RPA with Lateral‑Flow Readout & Full Process Control
