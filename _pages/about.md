@@ -6,7 +6,7 @@ subtitle: <a href='#'> Seattle, Wa. coleman.d.martin(at)gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
     <p>Seattle, Wa</p>
