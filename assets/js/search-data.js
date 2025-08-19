@@ -416,9 +416,9 @@ ninja.data = [{
           description: "(COAST)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "Low-Cost Imaging Systems for Fluorescence-Based Diagnostics",
+            },},{id: "projects-low-cost-imaging-systems-for-fluorescence-based-diagnostics",
+          title: 'Low-Cost Imaging Systems for Fluorescence-Based Diagnostics',
+          description: "Moving away from the microscope",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
