@@ -1,0 +1,8 @@
+<ul class="list-unstyled">
+  {% for item in data[1] %}
+    <li class="mb-2">
+      <strong>{{ item.course }}</strong>, {{ item.instructor }}<br/>
+      {{ item.institution }} — {{ item.term }}
+    </li>
+  {% endfor %}
+</ul>
