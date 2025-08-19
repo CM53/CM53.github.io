@@ -29,5 +29,6 @@ I’m a PhD chemical engineer with expertise in microfluidics, molecular diagnos
 I developed a duplexed RT-RPA assay with lateral flow and fluorescence readouts meeting WHO guidelines, and designed a minimalist microfluidic chip for quantitative diagnostics using first-principles fluid mechanics. I also built data processing pipelines to extract features from low-signal, time-resolved image data for both supervised and unsupervised machine learning. This work included implementing GPU-accelerated CUDA vision pipelines for modeling amplification dynamics using deep learning (ResNet-18), as well as developing high-performance mobile phone–based imaging systems with custom optics for point-of-care diagnostics.
 
 I’m driven by the challenge of applying the best tools whether molecular, computational, or mechanical to solve impactful problems in health and engineering. My work bridges diagnostics, device design, and data science to move technologies from the benchtop to real-world use.
-<p>[LinkedIn](https://www.linkedin.com/in/colemanmartin/)<p>
+<p><a href="https://www.linkedin.com/in/colemanmartin/">LinkedIn</a></p>
+
 
