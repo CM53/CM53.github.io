@@ -2,7 +2,7 @@
 layout: page
 title: Low-Cost Imaging Systems for Fluorescence-Based Diagnostics
 description: Moving away from the microscope
-img: assets/img/ansa1.png
+img: assets/img/ansa2.png
 importance: 2
 category: work
 giscus_comments: false
