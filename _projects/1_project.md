@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: COVID at home self test (COAST)
+title: COVID at home self test
+description: (COAST)
 img: assets/img/coast_overview.gif
 importance: 1
 category: work
