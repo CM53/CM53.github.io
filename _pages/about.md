@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Seattle, Wa. coleman.d.martin(at)gmail.com <p>[LinkedIn](https://www.linkedin.com/in/colemanmartin/)<p>
+subtitle: <a href='#'> coleman.d.martin(at)gmail.com <p>[LinkedIn](https://www.linkedin.com/in/colemanmartin/)<p> <p>Seattle, Wa.<p>
 
 profile:
   align: right
