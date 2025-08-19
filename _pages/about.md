@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> coleman.d.martin(at)gmail.com <p>[LinkedIn](https://www.linkedin.com/in/colemanmartin/)<p> <p>Seattle, Wa.<p>
-
+subtitle: <a href='#'> coleman.d.martin(at)gmail.com
 profile:
   align: right
   image: headshot.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
+    <p>[LinkedIn](https://www.linkedin.com/in/colemanmartin/)<p>
     <p>Seattle, Wa</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
