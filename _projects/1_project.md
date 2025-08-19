@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/coast_overview.jpg
+img: assets/img/coast_overview.gif
 importance: 1
 category: work
 related_publications: true
