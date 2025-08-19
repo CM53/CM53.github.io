@@ -27,3 +27,11 @@ Developed a one-pot, duplexed RT‑RPA assay for SARS‑CoV‑2 featuring both r
 
 ## Imaging & analysis software:
 I developed custom imaging software to automatically locate, analyze, and quantify band intensities from lateral-flow strips using flatbed scanner images. The tool extracts spatial and intensity data for each test and control line, enabling consistent and objective result interpretation for large-scale or field deployments.
+
+### 📄 Citation
+
+Martin, C.D., et al. *SARS‑CoV‑2 duplexed RT‑RPA assay with lateral‑flow readout and RNA process control*. **RSC Synthetic Biology**, 2024. [https://doi.org/10.1039/D3SD00246B](https://doi.org/10.1039/D3SD00246B)
+
+### 📥 Download PDF
+
+[Click here to download the full paper (PDF)](/assets/pdf/d3sd00246b.pdf)
