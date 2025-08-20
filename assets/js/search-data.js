@@ -404,9 +404,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-covid-at-home-self-test",
-          title: 'COVID at home self test',
-          description: "(COAST)",
+          section: "News",},{id: "projects-covid-home-self-test",
+          title: 'COVID Home Self Test',
+          description: "Merging the speed of antigen with the specificity of PCR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-low-cost-imaging-systems-for-fluorescence-based-diagnostics",
@@ -415,7 +415,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-peg-tuned-ansa-microchip-quantification",
-          title: 'PEG-Tuned ANSA: Microchip quantification',
+          title: 'PEG-Tuned ANSA: Microchip Quantification',
           description: "Quantitative Isothermal Amplification in a Microfluidic Chip",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
@@ -430,7 +430,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-traffic-light-reporter-system",
-          title: 'Traffic light reporter system',
+          title: 'Traffic Light Reporter System',
           description: "Improving CRISPR repair rates",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
