@@ -7,13 +7,17 @@ importance: 2
 category: work
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/inbre/cas9.gif" title="gif of Cas9" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="row justify-content-center">
+  <div class="col-10 col-md-6 col-lg-4 mt-3 mt-md-0">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/inbre/cas9.gif"
+       title="gif of Cas9"
+       class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
+  </div>
 </div>
 <div class="caption">
-    a gif of CRISPR Cas9 I made when I was exploring structure/function relationship with ChimeraX as a beta tester
+  a gif of CRISPR Cas9 I made when I was exploring structure/function relationship with ChimeraX as a beta tester
 </div>
 
 ## Abstract  
