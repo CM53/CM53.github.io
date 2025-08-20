@@ -1,7 +1,7 @@
 ---
 layout: page
-title: COVID at home self test
-description: (COAST)
+title: COVID Home Self Test
+description: Merging the speed of antigen with the specificity of PCR
 img: assets/img/coast_overview.gif
 importance: 1
 category: work

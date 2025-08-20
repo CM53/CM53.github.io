@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PEG-Tuned ANSA: Microchip quantification"
+title: "PEG-Tuned ANSA: Microchip Quantification"
 description: Quantitative Isothermal Amplification in a Microfluidic Chip
 importance: 1
 category: work

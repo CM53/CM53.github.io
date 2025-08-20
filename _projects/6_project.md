@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traffic light reporter system 
+title: Traffic Light Reporter System 
 description: Improving CRISPR repair rates
 img: assets/img/inbre/cas9.gif
 importance: 2
@@ -8,7 +8,7 @@ category: work
 ---
 
 <div class="row justify-content-center">
-  <div class="col-10 col-md-6 col-lg-4 mt-3 mt-md-0">
+  <div class="col-10 col-md-6 col-lg-4 mt-3 mt-md-0 text-center">
     {% include figure.liquid
        loading="eager"
        path="assets/img/inbre/cas9.gif"
@@ -16,8 +16,13 @@ category: work
        class="img-fluid rounded z-depth-1 w-75 mx-auto d-block" %}
   </div>
 </div>
-<div class="caption">
-  a gif of CRISPR Cas9 I made when I was exploring structure/function relationship with ChimeraX as a beta tester
+<!-- FULL-WIDTH CAPTION -->
+<div class="row">
+  <div class="col-12">
+    <div class="caption text-center">
+      a gif of CRISPR Cas9 I made when I was exploring structure/function relationship with ChimeraX as a beta tester
+    </div>
+  </div>
 </div>
 
 ## Abstract  
@@ -26,12 +31,15 @@ CRISPR-Cas9 has emerged as a transformative tool for genome engineering due to i
 <div class="row justify-content-center">
   <div class="col-10 col-md-6 col-lg-4 mt-3 mt-md-0 text-center">
     {% include figure.liquid loading="eager" path="assets/img/inbre/inbre1.png" title="Figure 1: Schematic of Cas9-mediated DSB repair" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
-    <div class="caption mt-2">
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <div class="caption text-center mt-2">
       Figure 1. Cas9 generates targeted DSBs that are repaired by NHEJ, resulting in gene disruption, or by HDR, which restores or introduces precise sequences [6]
     </div>
   </div>
 </div>
-
 
 ## Introduction  
 Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) and associated Cas proteins constitute a widespread adaptive immune system in prokaryotes [1–3]. CRISPR-associated protein 9 (Cas9) has been repurposed as a programmable RNA-guided nuclease for genome engineering. Cas9 generates targeted DSBs at DNA loci complementary to the guide RNA sequence, adjacent to a protospacer-adjacent motif (PAM). Repair of these breaks relies on host-cell pathways, including NHEJ and HDR [4–6].  
@@ -39,7 +47,6 @@ Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) and associate
 NHEJ is an efficient but error-prone process, often producing indels that disrupt coding sequences [7]. HDR, in contrast, uses a donor DNA template to restore or insert precise sequences, enabling accurate gene correction [5]. While NHEJ can be exploited for loss-of-function studies, clinical applications of CRISPR require high-fidelity HDR. However, HDR occurs with lower efficiency than NHEJ, limiting its utility in therapeutic genome engineering [8].  
 
 Recent genome-wide knockout screens in human cells have identified candidate genes that may suppress HDR. Validating these candidate regulators of repair choice is essential but labor-intensive when performed with conventional assays. To address this limitation, I adapted the Traffic Light Reporter (TLR) system [9], which enables quantitative and simultaneous measurement of HDR and NHEJ outcomes through dual fluorescent reporters. This system provides a rapid and scalable platform for testing the impact of gene knockouts on DNA repair pathway choice.  
-
 
 ## Methods  
 
@@ -49,22 +56,28 @@ The TLR construct shown in **Figure 2** encodes a non-functional green fluoresce
 <div class="row justify-content-center">
   <div class="col-10 col-md-6 col-lg-4 mt-3 mt-md-0 text-center">
     {% include figure.liquid loading="eager" path="assets/img/inbre/inbre2.jpg" title="Figure 2: Design of the Traffic Light Reporter (TLR)" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
-    <div class="caption mt-2">
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <div class="caption text-center mt-2">
       Figure 2. The TLR construct contains a disrupted GFP and out-of-frame mCherry. DSB induction by Cas9 enables pathway-specific repair outcomes, visualized by GFP or mCherry fluorescence [9].
     </div>
   </div>
 </div>
 
-
 <div class="row justify-content-center">
   <div class="col-10 col-md-6 col-lg-4 mt-3 mt-md-0 text-center">
     {% include figure.liquid loading="eager" path="assets/img/inbre/guide1.jpg" title="Figure 3: FACs output testing one of the Cas9 guides" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
-    <div class="caption mt-2">
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <div class="caption text-center mt-2">
       Figure 3. Fluorescent Activated Cell Sorting (FACS) showing the count and distribution of dark cells (Q3), red cells displaying NHEJ (Q1), and green cells displaying HDR (Q4), and cells showing both red and green fluorescent protein (Q2).
     </div>
   </div>
 </div>
-
 
 ### Cell Culture and Transduction  
 HEK293T cells were maintained under standard conditions and transduced with a lentiviral vector encoding the TLR construct. Following antibiotic selection, stable TLR reporter lines were established. For experimental assays, cells were transfected with plasmids encoding Cas9, a single-guide RNA targeting the GFP insertion, and a donor repair template as shown in **Figure 4**.  
@@ -72,12 +85,15 @@ HEK293T cells were maintained under standard conditions and transduced with a le
 <div class="row justify-content-center">
   <div class="col-10 col-md-6 col-lg-4 mt-3 mt-md-0 text-center">
     {% include figure.liquid loading="eager" path="assets/img/inbre/inbre3.png" title="Figure 4: Workflow of TLR assay" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
-    <div class="caption mt-2">
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <div class="caption text-center mt-2">
       Figure 4. Workflow of the TLR assay. Stable HEK293T-TLR cells are transfected with Cas9, guide RNA, and donor template. Repair outcomes are quantified by flow cytometry to determine relative HDR and NHEJ frequencies
     </div>
   </div>
 </div>
-
 
 ### Gene Knockout Validation  
 Candidate genes identified in the genome wide screen. Knockouts were generated by CRISPR-mediated editing and confirmed by sequencing. TLR assays were then performed in knockout and control lines to determine the effect of each gene on repair pathway choice.  
@@ -89,7 +105,6 @@ Preliminary TLR experiments yielded variable HDR:NHEJ ratios (12 ± 7%). Optimiz
 The TLR assay provided simultaneous and quantitative measurement of HDR and NHEJ repair in human cells. Fluorescence-based readouts enabled rapid comparison of repair pathway activity across knockout and control lines. Candidate gene knockouts conrtols which are known to promote NHEJ, were hypothesized to increase HDR frequency. Validation of additional genes from the GeCKO v2 screen will establish whether novel factors contribute to the suppression of HDR.  
 
 Preliminary data demonstrated successful transduction of TLR constructs and generation of multiple gene knockouts. However, variability in HDR:NHEJ ratios indicated a need for protocol optimization. Refinement of transfection conditions and donor DNA concentrations is expected to stabilize the assay. Once optimized, the TLR system offers a scalable approach for systematically validating genes that regulate DNA repair pathway choice.  
-
 
 ## Conclusion  
 I developed and implemented a Traffic Light Reporter assay to quantitatively assess DNA repair outcomes following CRISPR-Cas9 editing. This system enables high-throughput validation of candidate genes identified from genome-wide screens as regulators of HDR. Although initial experiments showed variability, optimization of assay conditions will improve reproducibility and facilitate systematic investigation of DNA repair regulation. Ultimately, this platform may contribute to strategies aimed at enhancing HDR for therapeutic genome engineering.  
