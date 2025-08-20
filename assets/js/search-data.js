@@ -421,9 +421,9 @@ ninja.data = [{
           description: "Moving away from the microscope",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-peg-tuned-ansa-microchip-quantification",
+          title: 'PEG-Tuned ANSA: Microchip quantification',
+          description: "Quantitative Isothermal Amplification in a Microfluidic Chip",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
