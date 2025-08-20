@@ -436,6 +436,11 @@ ninja.data = [{
           description: "future home of some images",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-traffic-light-reporter-system",
+          title: 'Traffic light reporter system',
+          description: "Improving CRISPR repair rates",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
