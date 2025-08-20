@@ -2,7 +2,7 @@
 layout: page
 title: Low-Cost Imaging Systems for Fluorescence-Based Diagnostics
 description: Moving away from the microscope
-img: assets/img/ansa2.png
+img: assets/img/fluoro/ansa2.png
 importance: 2
 category: work
 giscus_comments: false
@@ -22,17 +22,18 @@ Built a compact diagnostic imaging system using **off-the-shelf components for u
 
 The system supports real-time image capture and processing, enabling sensitive, low-cost molecular diagnostics outside traditional lab environments.
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12 col-md-6 offset-md-3 text-center">
-      ![Raspberry Pi–Based Fluorescence Reader](/assets/img/hcvdd.jpg)
-    </div>
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/fluoro/hcvdd.jpg" title="Raspberry Pi–Based Fluorescence Reader" class="img-fluid rounded z-depth-1" %}
   </div>
+</div>
+<div class="caption">
+  Raspberry Pi–based fluorescence reader prototype with integrated optics, filters, and LED excitation.
 </div>
 
 ---
 
-## 📱 Mobile App for Fluorescence Imaging* 
+## 📱 Mobile App for Fluorescence Imaging*
 Developed an Android application that leverages native camera APIs to enable direct control of:
 - Shutter timing,  
 - Flash intensity and duration,  
@@ -40,15 +41,17 @@ Developed an Android application that leverages native camera APIs to enable dir
 
 This provides a software-controlled mobile platform for fluorescence imaging without additional hardware, ideal for field diagnostics, test strip reading, or training datasets.
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12 col-md-6 text-center">
-      ![smartphone fixturing](/assets/img/ansa1.png)
-      <p>smartphone fixturing</p>
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/fluoro/ansa1.png" title="smartphone fixturing" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+      Smartphone fixturing for stable fluorescence image capture.
     </div>
-    <div class="col-sm-12 col-md-6 text-center">
-      ![Deep learning enabled app V1](/assets/img/AppGui.png)
-      <p>Deep learning enabled app V1</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/fluoro/AppGui.png" title="Deep learning enabled app V1" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+      Deep learning–enabled app (v1) with manual exposure and flash control.
     </div>
   </div>
 </div>
