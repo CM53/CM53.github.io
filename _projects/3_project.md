@@ -7,17 +7,10 @@ importance: 3
 category: work
 ---
 
----
-layout: page
-title: "PEG-Tuned ANSA: Quantitative Isothermal Amplification in a Microfluidic Chip"
-permalink: /projects/ansa/
-project: true
-nav_exclude: true
----
-
 # Chip-Based Quantification of Isothermal Amplification Using Tunable Crowding Chemistry
 
 We developed a low-cost, membrane-free microfluidic platform for quantitative nucleic acid amplification using Amplification Nucleation Site Analysis (ANSA)—a technique that correlates discrete fluorescent amplification sites with input DNA concentration. This study investigates how the viscosity of the reaction mixture, tuned via polyethylene glycol (PEG), impacts the growth, shape, and spacing of amplification sites.
+
 ## 🧪 Key Contributions:
 - Microfluidic ANSA chip fabricated using laser-cut tape, PETG, and glass—no droplet generators or lithography required.
 - PEG concentration modulates site size, growth kinetics, and spacing, enabling precise tuning of quantifiable range.
