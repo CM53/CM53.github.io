@@ -3,7 +3,7 @@ layout: page
 title: "Deep Learning–Enhanced ANSA Quantification"
 description: Machine learning for time resolved image data
 img:
-importance: 3
+importance: 1
 category: work
 ---
 
