@@ -53,7 +53,12 @@
       "startDate": "2025-06",
       "summary": "Assay development for point-of-care viral diagnostics.",
       "highlights": [
-        "Designed and optimized recombinase polymerase amplification (RPA) assays for HCV viral-load quantification."
+        "Designed and optimized isothermal molecular diagnostic assays for Hepatitis C detection.",
+        "Compiled and analyzed 9,000 publicly available HCV genome sequences to identify genetic variability impacting assay performance.",
+        "Performed sequence alignment and computational analysis to guide rare-variant sensitivity testing.",
+        "Coordinated acquisition and testing of international viral reference samples from CDC, WHO, and NIBSC.",
+        "Conducted analytical validation studies evaluating sensitivity, specificity, and limit of detection against PCR benchmarks.",
+        "Trained new laboratory members on assay development and experimental protocols."
       ]
     },
     {
@@ -259,12 +264,12 @@
       "type": "research"
     }
   ],
-  "presentations": [
+"presentations": [
     {
-      "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
-      "publisher": "MicroTAS 2021 (The 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences)",
-      "location": "Palm Springs, CA, USA",
-      "releaseDate": "2021-10"
+      "name": "Quantification of HIV-1 DNA Isothermal Amplification Images Using Resnet-18 Networks",
+      "publisher": "UW Data Science Seminar- Invited Speaker",
+      "location": "Seattle, WA, USA",
+      "releaseDate": "2025-04"
     },
     {
       "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
@@ -285,10 +290,17 @@
       "releaseDate": "2023-06"
     },
     {
+      "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
+      "publisher": "MicroTAS 2021 (The 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences)",
+      "location": "Palm Springs, CA, USA",
+      "releaseDate": "2021-10"
+    },
+    {
       "name": "Annual Department Presentations",
       "publisher": "University of Washington, Department of Chemical Engineering",
       "releaseDate": "2020-01"
     }
+
   ],
   "teaching": [
     {
