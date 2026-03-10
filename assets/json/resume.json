@@ -47,7 +47,7 @@
   ],
   "work": [
     {
-      "name": "University of Washington — Posner Research Group",
+      "name": "University of Washington - Posner Research Group",
       "location": "Seattle, WA",
       "position": "Postdoctoral Researcher",
       "startDate": "2025-06",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "University of Washington — Posner Research Group",
+      "name": "University of Washington - Posner Research Group",
       "location": "Seattle, WA",
       "position": "Graduate Researcher",
       "startDate": "2020-06",
@@ -74,7 +74,7 @@
         "Applied viscous dampening and deep learning (ResNet) to expand quantifiable dynamic range on paper substrates.",
         "Performed analytical characterization (sensitivity, specificity, LOD) achieving PCR-level performance.",
         "Institute for Translational Health Sciences (ITHS) TL1 Translational Research Training Fellow.",
-        "Chemical & Biological Safety Officer; received “Leading the Pack” award."
+        "Chemical and Biological Safety Officer; received Leading the Pack award."
       ]
     },
     {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Montana State University — Wiedenheft Lab",
+      "name": "Montana State University - Wiedenheft Lab",
       "location": "Bozeman, MT",
       "position": "Undergraduate Research Scientist",
       "startDate": "2017-06",
@@ -101,9 +101,9 @@
       "summary": "Genome engineering and CRISPR-Cas9 workflows.",
       "highlights": [
         "Collaborated on CRISPR-Cas9 genome engineering project.",
-        "Established/optimized reporter assay for editing outcome validation.",
+        "Established and optimized reporter assay for editing outcome validation.",
         "Performed cellular cloning, mutagenesis, and development of competent E. coli lines.",
-        "Managed tissue/virus culture stocks; conducted ELISA-based quantification.",
+        "Managed tissue and virus culture stocks; conducted ELISA-based quantification.",
         "Contributed to publication on autonomous CRISPR-Cas9 delivery systems."
       ]
     }
@@ -114,8 +114,8 @@
       "awarder": "Institute for Translational Health Sciences (ITHS)"
     },
     {
-      "title": "“Leading the Pack Safety Award",
-      "awarder": "University of Washington (Chemical & Biological Safety Officer role)"
+      "title": "Leading the Pack Safety Award",
+      "awarder": "University of Washington (Chemical and Biological Safety Officer role)"
     }
   ],
   "publications": [
@@ -130,7 +130,7 @@
     },
     {
       "name": "SARS-CoV-2 Recombinase Polymerase Amplification Assay with Lateral Flow Readout and Duplexed Full Process Internal Control",
-      "publisher": "Sensors & Diagnostics",
+      "publisher": "Sensors and Diagnostics",
       "releaseDate": "2024-01",
       "url": "https://doi.org/10.1039/D3SD00246B"
     },
@@ -148,14 +148,14 @@
     },
     {
       "name": "CRISPR RNA-Guided Autonomous Delivery of Cas9",
-      "publisher": "Nature Structural & Molecular Biology",
+      "publisher": "Nature Structural and Molecular Biology",
       "releaseDate": "2019-01",
       "url": "https://doi.org/10.1038/s41594-018-0173-y"
     }
   ],
   "skills": [
     {
-      "name": "Diagnostics & Assay Development",
+      "name": "Diagnostics and Assay Development",
       "keywords": [
         "RPA",
         "LAMP",
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Machine Learning & CNN",
+      "name": "Machine Learning and CNN",
       "keywords": [
         "ResNet",
         "Computer vision",
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "name": "Bioprocess & QA",
+      "name": "Bioprocess and QA",
       "keywords": [
         "cGMP/cGLP",
         "ALCOA+",
@@ -189,15 +189,15 @@
       ]
     },
     {
-      "name": "Molecular & Cell Biology",
+      "name": "Molecular and Cell Biology",
       "keywords": [
         "CRISPR-Cas9",
         "Reporter assays",
         "ELISA",
-        "Cell cloning & mutagenesis",
+        "Cell cloning and mutagenesis",
         "HEK293",
         "Lentiviral production and transduction",
-        "Bacterial/viral culture"
+        "Bacterial and viral culture"
       ]
     }
   ],
@@ -206,7 +206,7 @@
       "name": "COAST: Duplexed RT-RPA SARS-CoV-2 Assay with Lateral Flow Readout",
       "description": "One-pot, duplexed RT-RPA assay for SARS-CoV-2 with an MS2 bacteriophage full-process internal control; supports real-time fluorescence or endpoint lateral-flow readout.",
       "highlights": [
-        "LOD: ~25 copies/reaction (fluorescence) and ~50 copies/reaction (LFA), ~15–28 min total runtime",
+        "LOD: ~25 copies/reaction (fluorescence) and ~50 copies/reaction (LFA), ~15-28 min total runtime",
         "Dual readout using TwistAmp exo kits with internally-quenched probes",
         "Detects Delta and Omicron; no cross-reactivity with Flu A/B or common HCoVs",
         "Demonstrated duplexed LFA with separate lines for target and process control"
@@ -219,7 +219,7 @@
         "Isothermal NAAT"
       ],
       "roles": ["Lead researcher", "Assay designer"],
-      "entity": "University of Washington — Posner Research Group",
+      "entity": "University of Washington - Posner Research Group",
       "type": "research",
       "url": "https://doi.org/10.1039/D3SD00246B"
     },
@@ -228,9 +228,9 @@
       "description": "Translated Amplification Nucleation Site Analysis (ANSA) from membranes to a minimalist microfluidic glass-slide chip and tuned PEG-mediated phase behavior to expand quantifiable range for HIV DNA.",
       "highlights": [
         "Systematically varied PEG to shrink site diameter and reduce merging",
-        "Expanded ANSA’s quantitative range to ~4.7 orders of magnitude",
+        "Expanded ANSA's quantitative range to ~4.7 orders of magnitude",
         "Automated image processing to count nucleation sites and extract Gaussian features",
-        "Demonstrated simple fabrication and 39 °C operation suitable for POC workflows"
+        "Demonstrated simple fabrication and 39 C operation suitable for POC workflows"
       ],
       "keywords": [
         "ANSA",
@@ -240,7 +240,7 @@
         "Fluorescence imaging"
       ],
       "roles": ["Concept development", "Chip design", "Data analysis"],
-      "entity": "University of Washington — Posner Research Group",
+      "entity": "University of Washington - Posner Research Group",
       "type": "research"
     },
     {
@@ -250,8 +250,8 @@
         "Defined temporal channel selection and preprocessing for model input",
         "ResNet-18 architecture with hyperparameter optimization",
         "Reported performance via clinical-utility and logarithmic-scale confusion matrices",
-        "Demonstrated data pipeline from raw frames → peak detection → model training",
-        "Extended the dnyamic range of the system of 6 orders of magnitude- rivals PCR"
+        "Demonstrated data pipeline from raw frames to peak detection to model training",
+        "Extended the dynamic range of the system to 6 orders of magnitude, rivaling PCR"
       ],
       "keywords": [
         "ResNet-18",
@@ -260,19 +260,19 @@
         "Viral-load stratification"
       ],
       "roles": ["Model architect", "ML engineer"],
-      "entity": "University of Washington — Posner Research Group",
+      "entity": "University of Washington - Posner Research Group",
       "type": "research"
     }
   ],
-"presentations": [
+  "presentations": [
     {
-      "name": "Quantification of HIV-1 DNA Isothermal Amplification Images Using Resnet-18 Networks",
-      "publisher": "UW Data Science Seminar- Invited Speaker",
+      "name": "Quantification of HIV-1 DNA Isothermal Amplification Images Using ResNet-18 Networks",
+      "publisher": "UW Data Science Seminar - Invited Speaker",
       "location": "Seattle, WA, USA",
       "releaseDate": "2025-04"
     },
     {
-      "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
+      "name": "Rapid SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
       "publisher": "ITHS TL1 Summit",
       "location": "Bozeman, MT, USA",
       "releaseDate": "2023-06"
@@ -290,7 +290,7 @@
       "releaseDate": "2023-06"
     },
     {
-      "name": "RAPID SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
+      "name": "Rapid SARS-CoV-2 Testing with Duplexed Recombinase Polymerase Amplification and a Bacteriophage Internal Control",
       "publisher": "MicroTAS 2021 (The 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences)",
       "location": "Palm Springs, CA, USA",
       "releaseDate": "2021-10"
@@ -300,7 +300,6 @@
       "publisher": "University of Washington, Department of Chemical Engineering",
       "releaseDate": "2020-01"
     }
-
   ],
   "teaching": [
     {

@@ -1,14 +1,14 @@
 <ul class="list-unstyled">
   {% for item in data[1] %}
     <li class="mb-2">
-      <strong>{{ item.name }}</strong><br/>
+      <strong>{{ item.name }}</strong><br />
       {% if item.publisher %}<em>{{ item.publisher }}</em>{% endif %}
-      {% if item.location %} — {{ item.location }}{% endif %}
+      {% if item.location %} - {{ item.location }}{% endif %}
       {% if item.releaseDate %} ({{ item.releaseDate }}){% endif %}
-      <br/>
+      <br />
       {{ item.summary }}
       {% if item.url %}
-        <br/><a href="{{ item.url }}" target="_blank">{{ item.url }}</a>
+        <br /><a href="{{ item.url }}" target="_blank">{{ item.url }}</a>
       {% endif %}
     </li>
   {% endfor %}
