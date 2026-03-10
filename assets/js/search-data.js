@@ -420,7 +420,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-deep-learning-enhanced-ansa-quantification",
-          title: 'Deep Learning–Enhanced ANSA Quantification',
+          title: 'Deep Learning-Enhanced ANSA Quantification',
           description: "Machine learning for time resolved image data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
