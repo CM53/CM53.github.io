@@ -13,7 +13,7 @@
         "url": "https://www.linkedin.com/in/colemanmartin/"
       }
     ],
-    "summary": "Chemical engineer specialized in isothermal nucleic acid amplification, lateral-flow diagnostics, and applied machine learning/computer vision for point-of-care testing. Experience spans assay design, analytical performance characterization, and regulated bioprocess environments."
+    "summary": "Chemical Engineer combining assay development, bioinformatics, fundamental fluid mechanics, and machine learning to design robust viral detection technologies."
   },
   "education": [
     {
@@ -121,11 +121,12 @@
   "publications": [
     {
       "name": "The Impact of PEG 35K on Dynamics and the Quantifiable Range of Isothermal Amplification Nucleation Site Analysis",
-      "publisher": "Analytical Chemistry",
+      "publisher": "Sensors and Diagnostics",
       "summary": "Prepared manuscript."
     },
     {
       "name": "Extending the Dynamic Range of Isothermal HIV-1 DNA Amplification Nucleation Site Analysis Using a Residual Neural Network",
+      "publisher": "PLOS Computational biology",
       "summary": "Prepared manuscript."
     },
     {
@@ -133,6 +134,12 @@
       "publisher": "Sensors and Diagnostics",
       "releaseDate": "2024-01",
       "url": "https://doi.org/10.1039/D3SD00246B"
+    },
+    {
+      "name": "Extraction-Free Scalable Sample Preparation for the Rapid Detection of HIV in Blood Plasma",
+      "publisher": "Analytical Chemistry",
+      "releaseDate": "2026-02",
+      "url": "https://doi.org/10.1371/journal.pone.0276582"
     },
     {
       "name": "Rapid Detection of Hepatitis C Virus Using Recombinase Polymerase Amplification",
@@ -170,11 +177,11 @@
       "keywords": [
         "ResNet",
         "Computer vision",
-        "Dynamic range expansion",
+        "Large Dataset analysis",
         "Image-based quantification",
         "Time resolved image data analysis",
         "CUDA GPU accelerated learning",
-        "Large dataset"
+        "Python", "Pandas", "Numpy", "Scipy", "Docker"
       ]
     },
     {
