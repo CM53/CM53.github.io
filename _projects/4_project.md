@@ -25,11 +25,10 @@ This approach eliminates the need for physical compartmentalization (for example
 ---
 
 ## Citation
-Martin, C.D., Benson, N.C., Gummalla, N.S., Shimazu, K.N., Bender, A.T., Beck, D.A.C., Posner, J.D.
-Extending the Dynamic Range of Isothermal HIV-1 DNA Amplification Nucleation Site Analysis Using a Residual Neural Network.
-Prepared manuscript, 2024.
+1. Martin, C. D. et al. Semi-quantitative Classification of HIV-1 Nucleic Acids Using ResNet Image Analysis of Discretized Isothermal Amplification Reactions in a Microfluidic Chip. 2026.06.24.734232 Preprint at https://doi.org/10.64898/2026.06.24.734232 (2026).
 
 ---
 
 ### PDF
-Shared when published.
+A manuscript describing this workflow is in preparation for PLOS Computational Biology. A pre-print is available on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.06.24.734232)
+
